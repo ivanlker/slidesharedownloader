@@ -1,6 +1,6 @@
 # SlideShareDL: Free SlideShare Downloader 📚  
 
-Welcome to **SlideShareDL**, the easiest way to download SlideShare presentations in **PPT**, **PDF**, **ZIP**, and **JPG** formats—for free! Whether you need a quick download for work, school, or personal use, our tool makes it super simple.  
+The easiest way to download SlideShare presentations in **PPT**, **PDF**, **ZIP**, and **JPG** formats for free! Whether you need a quick download for work, school, or personal use, our tool makes it simple.  
 
 ![SlideShareDL Tool](https://slidesharedl.com/images/5.webp?v=1)  
 
@@ -14,7 +14,7 @@ Here’s how you can download your favorite SlideShare slides step by step:
    Visit [SlideShareDL.com](https://slidesharedl.com) and paste the copied URL into the input box on the homepage.  
 
 3. **Choose Slide Quality**  
-   Select your preferred slide quality—**Low**, **Medium**, or **High**—from the dropdown menu.  
+   Select your preferred slide quality—**Low**, **Medium**, or **High** from the dropdown menu.  
 
 4. **Download Slides**  
    Click the **Download** button. Our tool will grab the slides and display individual images with download options.  
