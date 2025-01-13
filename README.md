@@ -2,6 +2,8 @@
 
 Welcome to **SlideShareDL**, the easiest way to download SlideShare presentations in **PPT**, **PDF**, **ZIP**, and **JPG** formats—for free! Whether you need a quick download for work, school, or personal use, our tool makes it super simple.  
 
+![SlideShareDL Tool](https://slidesharedl.com/images/5.webp)  
+
 ## How SlideShareDL Works  
 Here’s how you can download your favorite SlideShare slides step by step:  
 
