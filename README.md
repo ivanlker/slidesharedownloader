@@ -31,6 +31,3 @@ Here’s how you can download your favorite SlideShare slides step by step:
 
 ## Who Can Use SlideShareDL?  
 Anyone! Whether you're a **student**, **professional**, **teacher**, or just curious about SlideShare presentations, this tool is perfect for you.  
-
-## Ready to Get Started?  
-Visit **[SlideShareDL.com](https://slidesharedl.com)** today and experience the fastest way to download SlideShare presentations for free!  
